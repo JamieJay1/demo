@@ -1,6 +1,6 @@
 so this file is for documemtation purely on the demo project 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-               MY DEMO PROJECT 
+               MY DEMO PROJECT (GIT HUB AND JENKINS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
